@@ -1,0 +1,55 @@
+body {
+	background: #f8f8f8;
+}
+.menu {
+	list-style-type: none;
+}
+.Main{
+    	font-size: 20px;
+	color: #CD5C5C;
+	font-style: oblique;
+}
+.Contacts{
+    font-size: 20px;
+	color: #FF00FF;
+	font-style: oblique;
+}
+.Catalog{
+    font-size: 20px;
+	color: #2E8B57;
+	font-style: oblique;
+}
+.tovar{
+    color: #000000;
+	font-size: 18px;
+	font-weight: 400;
+	background: #eaeaea;
+}
+.small_text{
+    font-size: 14px;
+	line-height: 16px;
+	color: #707070;
+	font-style: italic;
+}
+.Big_text{
+    font-size: 16px;
+	line-height: 24px;
+	color: #484343;
+	font-weight: 400;
+	text-align: left;
+}
+.Char{
+    font-size: 20px;
+	line-height: 25px;
+	color: #0000CD;
+	font-weight: 500;
+    list-style-image: url(../img/smiley_PNG79.png)
+}
+input[type="text"]{
+    width: 200px; height: 25px;
+	border: outset;
+	border-width: 1px;
+	border-color: #5faf8a #b9cea5;
+	font-size: 14px;
+	color: #002868;
+}
